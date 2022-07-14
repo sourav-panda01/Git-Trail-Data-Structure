@@ -5,3 +5,4 @@
 5 Naan
 6 Chicken Butter Masala
 7 Paneer Butter Masala
+8 Chicken Fry
